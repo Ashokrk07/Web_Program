@@ -1,0 +1,47 @@
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 2px;
+}
+body{
+  background-image: url("E:\Ethnic 1\IMG_7853.JPG");
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  /* background-color: #d71b1b; */
+}
+
+header {
+  background-color: #0a0909;
+  color: #fff;
+  padding: 1rem;
+}
+p,h3{
+  font-size: 1.5rem;
+}
+h1{
+  font-size: 2rem;
+}
+
+nav ul li a:hover{
+  color: rgb(255, 0, 0);
+}
+
+nav ul li a{
+  text-indent: 10%;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
